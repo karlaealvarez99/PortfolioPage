@@ -1,0 +1,58 @@
+html {
+    color: white;
+    background-color: #349621;
+}
+
+img {
+    padding: 10px;
+    border: solid 3px rgb(94, 247, 88);
+}
+
+th {
+    text-align: left;
+}
+
+table {
+    width: 600px;
+}
+
+table, th, td {
+    font-weight: normal;
+    background-color: rgb(126, 190, 82);
+    color: black;
+    border: solid 1px black;
+    border-collapse: collapse;
+}
+
+th {
+    padding: 10px
+}
+
+
+th:first-of-type {
+    font-weight: bold; 
+    text-align: center;
+}
+
+
+.center {
+    padding: 10px 0px;
+    text-align: center;
+}
+
+.listPad {
+    padding-left: 10px;
+}
+
+caption {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: rgb(214, 214, 214)
+}
